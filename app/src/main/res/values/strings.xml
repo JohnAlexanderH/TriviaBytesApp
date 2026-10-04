@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">TriviaBytesApp</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_text">Correct</string>
+    <string name="incorrect_text">Incorrect</string>
+    <string name="question_1">The Earth is a planet</string>
+    <string name="question_2">The Earth is flat</string>
+    <string name="question_3">The Earth is round</string>
+
 </resources>
