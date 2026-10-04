@@ -5,8 +5,8 @@
     <string name="next_button">Next</string>
     <string name="correct_text">Correct</string>
     <string name="incorrect_text">Incorrect</string>
-    <string name="question_1">The Earth is a planet</string>
-    <string name="question_2">The Earth is flat</string>
-    <string name="question_3">The Earth is round</string>
+    <string name="question_1">The Earth is a planet.</string>
+    <string name="question_2">The Earth is flat.</string>
+    <string name="question_3">The Earth is round.</string>
 
 </resources>
